@@ -9,6 +9,6 @@ init(Handle<Object> target)
 {
     HandleScope scope;
 
-    Hextile::Initialize(target);
+    HextileNode::Initialize(target);
 }
 
